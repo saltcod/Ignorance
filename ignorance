@@ -1,0 +1,1 @@
+javascript:(function(){var ids = ['watch7-sidebar','watch7-discussion'];ids.forEach(function(id) {document.getElementById(id).style.visibility = 'hidden';});}())
