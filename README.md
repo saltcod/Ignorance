@@ -18,7 +18,13 @@ Customizing
 
 This bookmarklet hides the comments and the sidebar. You'll likely want the comments to hide, but may want to keep the sidebar recommendations. To do that, just remove the 'watch7-sidebar' part of the code (don't forget to remove the comma as well) so that it looks like this: 
 
+<strong>From this: </strong>
 <pre>
-var ids = ['watch7-discussion']
+  var ids = ['watch7-sidebar','watch7-discussion'];
+</pre>
+
+<strong>To this</strong>
+<pre>
+	var ids = ['watch7-discussion'];
 </pre>
 
