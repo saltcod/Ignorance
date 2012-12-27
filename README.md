@@ -10,7 +10,7 @@ Installation
 
   1. Create a new bookmark in your bookmarks bar. 
   2. Name the bookmark Ignorance or whatever you like
-  3. Paste the contents of Ignorance into the URL field: <img src="http://f.cl.ly/items/2k050c2h1J1U1h3L2q41/Screen%20Shot%202012-12-27%20at%2011.05.14%20AM.png">
+  3. Paste the contents of Ignorance into the URL field: <img src="http://f.cl.ly/items/2k050c2h1J1U1h3L2q41/Screen%20Shot%202012-12-27%20at%2011.05.14%20AM.png" width="70%">
   4. Click the Ignorance button while watching a video and watch the trolls just fade away!
 
 Customizing
